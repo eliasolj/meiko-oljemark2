@@ -22,7 +22,7 @@
             <button class="button" v-on:click="kesken">Kesken</button>
             <button class="button" v-on:click="pidossa">Pidossa</button>
             <button class="button" v-on:click="paattynyt">Päättynyt</button>
-            <p>Aseta projektin tila käyttäen ylläolveia painikkeita.</p>
+            <p>Aseta projektin tila käyttäen ylläolevia painikkeita.</p>
         </div>
     </div>
 </template>
