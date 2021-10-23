@@ -7,7 +7,7 @@
             <p class="teamState">Kova</p>
         </div>
         <div id="stateInfo">
-            <p>Tila:</p>
+            <p>Käyttäjä:</p>
             <p class="teamState">Aktiivinen</p>
         </div>
     </div>
