@@ -1,8 +1,9 @@
 <template>
     <div id="content">
+    <nav>
         <Navbar />
+    </nav>
         <Project />
-        <Buttons />
     </div>
 </template>
 
@@ -20,11 +21,18 @@ export default {
 </script>
 
 <style>
+nav {
+    width: 99%;
+    margin: auto;
+}
+
 a {
     text-decoration: none;
 }
+
 #content {
     background-color: #f0efef;
     width: 100%;
 }
+
 </style>

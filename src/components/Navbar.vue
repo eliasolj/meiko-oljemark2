@@ -18,7 +18,7 @@ export default {
 nav {
     background-color: #234e52;
     width: 100%;
-    height: 3em;
+    height: 3.5em;
     color: white;
     display: flex;
     justify-content: space-between;
@@ -35,19 +35,19 @@ a {
   background-color: #950f48;
   border-radius: 50%;
   display: inline-block;
-  margin-top: 8px;
-  margin-left: 10px;
+  margin-top: 10px;
+  margin-left: 15px;
 }
 
 #eo {
     font-size: 1em;
     text-align: center;
     margin: auto;
-    margin-top: 2px;
+    margin-top: 3px;
 }
 
 #name {
-    margin-top: 0.75em;
+    margin-top: 1em;
     margin-left: 3.5em;
     position: absolute;
     font-size: 0.9em;
@@ -55,7 +55,7 @@ a {
 
 #logout {
     font-size: 0.9em;
-    margin-top: 0.75em;
-    margin-right: 3px;
+    margin-top: 1em;
+    margin-right: 1em;
 }
 </style>

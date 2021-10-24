@@ -67,14 +67,14 @@ export default {
 <style scoped>
 
 #content {
-  border-radius: 25px;
+  border-radius: 10px;
   background: white;
   width: 95%;
   text-align: center;
   margin: auto;
   margin-top: 1em;
   margin-bottom: 4em;
-  box-shadow: 0px 2px 5px #d8d7d7;
+  box-shadow: 0px 5px 5px #d8d7d7;
 }
 
 
